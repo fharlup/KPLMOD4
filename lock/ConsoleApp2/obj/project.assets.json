@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\kuliah\\ngoding\\kpl\\New folder\\ConsoleApp5\\ConsoleApp5.csproj",
-      "projectName": "ConsoleApp5",
-      "projectPath": "D:\\kuliah\\ngoding\\kpl\\New folder\\ConsoleApp5\\ConsoleApp5.csproj",
+      "projectUniqueName": "D:\\kuliah\\ngoding\\kpl\\New folder\\ConsoleApp5\\lock\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectName": "ConsoleApp2",
+      "projectPath": "D:\\kuliah\\ngoding\\kpl\\New folder\\ConsoleApp5\\lock\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\fajar\\.nuget\\packages\\",
-      "outputPath": "D:\\kuliah\\ngoding\\kpl\\New folder\\ConsoleApp5\\obj\\",
+      "outputPath": "D:\\kuliah\\ngoding\\kpl\\New folder\\ConsoleApp5\\lock\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

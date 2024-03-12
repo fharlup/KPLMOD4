@@ -1,0 +1,14 @@
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+D:\kuliah\ngoding\kpl\New folder\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll
